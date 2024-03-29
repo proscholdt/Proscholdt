@@ -17,10 +17,9 @@ Dedicado em transformar informações em insights valiosos. Com base em análise
 📊 **Insights:**
 Acredito que a combinação de dados sólidos e narrativa impactante pode revolucionar a tomada de decisões, impulsionar a inovação e criar estratégias robustas.
 
-🚀 
-
+🚀
 Estou entusiasmado em continuar crescendo na minha carreira de Analista de Dados. Meu objetivo é contribuir com análises para resolver os problemas de negócios entregando insights, sempre me mantendo atualizado sobre as mais recentes tendências e ferramentas no campo da análise de dados.
 
-E acredito na importância de termos Transparência na Comunicação, Privacidade e Segurança dos Dados, Equidade e Inclusão, Tomada de Decisão Informada, Responsabilidade Social, Colaboração Interdisciplinar.
+Acredito na importância de termos Transparência na Comunicação, Privacidade e Segurança dos Dados, Equidade e Inclusão, Tomada de Decisão Informada, Responsabilidade Social, Colaboração Interdisciplinar.
 
 
