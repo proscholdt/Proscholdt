@@ -14,6 +14,7 @@ Dedicado em transformar informações em insights valiosos. Com base em análise
 
 
 📊 **Insights:**
+
 Acredito que a combinação de dados sólidos e narrativa impactante pode revolucionar a tomada de decisões, impulsionar a inovação e criar estratégias robustas.
 
 <div display = "inline">
