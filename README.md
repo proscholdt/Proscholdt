@@ -10,7 +10,7 @@ Dedicado em transformar informações em insights valiosos. Com base em análise
 
 ✔️ Python: Eu faço processo de ETL, identificação de outliers, desvio padrão, análises exploratórias e automatizações.
 
-✔️ Excel: Eu trabalho com formulas avançadas(corresp, procv, proch, =se, somases entre outros).
+✔️ Excel: Eu trabalho com formulas avançadas(corresp, procv, proch, se, somases entre outros).
 
 
 📊 **Insights:**
