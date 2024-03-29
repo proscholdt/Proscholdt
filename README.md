@@ -17,9 +17,7 @@ Dedicado em transformar informações em insights valiosos. Com base em análise
 📊 **Insights:**
 Acredito que a combinação de dados sólidos e narrativa impactante pode revolucionar a tomada de decisões, impulsionar a inovação e criar estratégias robustas.
 
-🚀
-Eu estou animado em continuar crescendo na minha carreira de Analista de Dados. Meu objetivo é contribuir com análises para resolver os problemas de negócios entregando insights, sempre me mantendo atualizado sobre as mais recentes tendências e ferramentas no campo da análise de dados.
-
-Acredito na importância de termos Transparência na Comunicação, Privacidade e Segurança dos Dados, Equidade e Inclusão, Tomada de Decisão Informada, Responsabilidade Social, Colaboração Interdisciplinar.
+<img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg"/>
+          
 
 
