@@ -2,7 +2,7 @@
 
 Dedicado em transformar informações em insights valiosos. Com base em análise de dados, experiência em SQL, Power BI, ETL, metodologias ágeis e Gamification, sempre buscando inovar e aprimorar minha abordagem.
 
-🛠️ **Habilidades-Chave:**
+🛠️ ***Habilidades-Chave:***
 
 ✔️ SQL: Transformo dados em informações acionáveis usando consultas eficientes e análise detalhada.
 
