@@ -8,11 +8,10 @@ Dedicado em transformar informações em insights valiosos. Com base em análise
 
 ✔️ Power BI: Eu crio visualizações impactantes e painéis interativos para comunicar insights de maneira clara.
 
-✔️ ETL: Eu domino processos de Extração, Transformação e Carga para garantir a integridade dos dados.
+✔️ Python: Eu faço processo de ETL, identificação de outliers, desvio padrão, análises exploratórias e automatizações.
 
-✔️ Metodologias Ágeis: Eu colaboro efetivamente em equipes ágeis, garantindo entregas eficientes e adaptáveis.
+✔️ Excel: Eu trabalho com formulas avançadas(corresp, procv, proch, =se, somases entre outros).
 
-✔️ Gamification: Eu Integro a gamificação para incentivar a participação e engajamento em análises de dados.
 
 📊 **Insights:**
 Acredito que a combinação de dados sólidos e narrativa impactante pode revolucionar a tomada de decisões, impulsionar a inovação e criar estratégias robustas.
