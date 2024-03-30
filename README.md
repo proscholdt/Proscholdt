@@ -4,13 +4,13 @@ Dedicado em transformar informações em insights valiosos. Com base em análise
 
 🛠️ ***Habilidades Chave:***
 
-✔️ SQL: Eu transformo dados em informações acionáveis usando consultas eficientes e análise detalhada.
+✔️ SQL: Transformo dados em informações acionáveis usando consultas eficientes e análise detalhada.
 
-✔️ Power BI: Eu crio visualizações impactantes e painéis interativos para comunicar insights de maneira clara.
+✔️ Power BI: Crio visualizações impactantes e painéis interativos para comunicar insights de maneira clara.
 
-✔️ Python: Eu faço processo de ETL, identificação de outliers, desvio padrão, análises exploratórias e automatizações.
+✔️ Python: Faço processo de ETL, identificação de outliers, desvio padrão, análises exploratórias e automatizações.
 
-✔️ Excel: Eu trabalho com formulas avançadas(corresp, procv, proch, se, somases entre outros).
+✔️ Excel: Trabalho com formulas avançadas(corresp, procv, proch, se, somases entre outros).
 
 
 📊 **Insights:**
