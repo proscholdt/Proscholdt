@@ -42,16 +42,6 @@ Plataforma de engenharia de dados com 8 pipelines ETL integrados, arquitetura Me
 
 `Python` `Polars` `PyArrow` `Delta Lake` `Azure Blob Storage` `Parquet` `Docker`
 
-### Klaus — Assistente de IA
-Assistente inteligente para ecossistemas educacionais: base vetorial, agentes especializados, memoria e roteamento por contexto.
-
-`LangGraph` `LangChain` `Pinecone` `RAG` `FastAPI`
-
-### Microservicos WhatsApp
-Pipeline de mensageria com API oficial da Meta: payloads de eventos, templates dinamicos, filas desacopladas, retentativas.
-
-`FastAPI` `Azure Service Bus` `Meta API` `Webhooks`
-
 ---
 
 ## Stack
