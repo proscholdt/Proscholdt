@@ -43,6 +43,8 @@ Plataforma de engenharia de dados com 8 pipelines ETL integrados, arquitetura Me
 `Python` `Polars` `PyArrow` `Delta Lake` `Azure Blob Storage` `Parquet` `Docker`
 
 ---
+###[Zeus -- Biblioteca Virtual com IA](https://github.com/proscholdt/Zeus)
+Zeus e uma biblioteca virtual inteligente que combina gerenciamento de livros, chatbot com IA e busca semantica por similaridade. Desenvolvido com arquitetura Clean Architecture (padrao IT Valley School).
 
 ## Stack
 
