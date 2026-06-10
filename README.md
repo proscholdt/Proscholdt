@@ -22,7 +22,7 @@ Meu trabalho vive na intersecção entre **engenharia de dados**, **inteligênci
 - Sistemas RAG (retrieval-augmented generation) — tradicional, hibrido e multi-etapas
 - Agentes especializados com **LangGraph / LangChain**
 - Embeddings + busca vetorial com **Pinecone**
-- Transcricao de video (Whisper) + indexacao semantica
+- Sistema Multi-agentes com protocolo A2A, MCP e BFA.
 - Assistentes de IA com memoria, roteamento e contexto de negocio
 
 ### Arquitetura de Software
