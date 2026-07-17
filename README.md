@@ -28,8 +28,6 @@ Meu trabalho vive na intersecção entre **engenharia de dados**, **inteligênci
 ### Arquitetura de Software
 - **Clean Architecture** com separacao em camadas (Router / Service / Factory / Repository)
 - Principios **SOLID** aplicados em backends Python
-- Camadas opacas: Service e Router nunca conhecem campos do DTO
-- Factory como dona das regras de negocio
 - Mensageria com **Azure Service Bus** para desacoplamento e escalabilidade
 - APIs REST com **FastAPI** + processamento assincrono
 
