@@ -37,6 +37,12 @@ Meu trabalho vive na intersecção entre **engenharia de dados**, **inteligênci
 
 ## Projetos em destaque
 
+### [Data Lakehouse na Azure — Airflow 3 + Delta Lake (sem Spark)](https://github.com/proscholdt/datamart_bi_airflow)
+Plataforma de dados **em produção**: 3 data marts (Hotmart, Meta Ads, Voomp) em lakehouse Medallion de 5 zonas com Delta Lake (delta-rs + Polars, sem Spark), orquestrados com Airflow 3 em Kubernetes (Astronomer). Carga incremental com watermark + lookback, ingestão event-driven, serving via Synapse serverless + Power BI e deploy automatizado por CI/CD.
+
+`Python` `Airflow 3` `Polars` `Delta Lake` `Azure` `Kubernetes` `Synapse` `GitHub Actions`
+
+---
 ### [Medallion Data Platform](https://github.com/proscholdt/medallion-data-platform)
 Plataforma de engenharia de dados com 8 pipelines ETL integrados, arquitetura Medallion no Azure Data Lake, star schema na camada Gold e Docker.
 
